@@ -1,0 +1,57 @@
+/* Dessert Heaven */
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+}
+.main_c
+{
+    height: 75vh;
+    object-fit: cover;
+}
+.main_c img
+{
+    height: 75vh;
+    /* height:100%; */
+    object-fit: cover;
+    /* width: 100%; */
+}
+
+.faqs
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.main_acc
+{
+    width:60%;
+    text-align: justify;
+}
+.contact
+{
+    background-color: black;
+    color: antiquewhite;
+}
+.send
+{
+    /* /* width: 10%;  */
+    margin-bottom: 10px;
+}
+footer
+{   
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    /* border-color: yellow; */
+    color: white;
+    text-align: center;
+    /* margin-top: 20px; */
+}
+
